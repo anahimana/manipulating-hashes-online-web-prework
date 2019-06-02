@@ -10,7 +10,7 @@ def second_challenge
   my_arr = []
   groceries.each do |key, value|
     # puts key
-    my_arr << value
+    my_arr Array.new(value)
   end
   my_arr
 end
