@@ -9,3 +9,5 @@ def second_challenge
   #code your solution here!
   groceries.[:dairy].values
 end
+
+second_challenge
