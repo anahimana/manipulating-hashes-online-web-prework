@@ -12,5 +12,5 @@ def second_challenge
     # puts key
     my_arr << value
   end
-  puts my_arr
+  my_arr
 end
