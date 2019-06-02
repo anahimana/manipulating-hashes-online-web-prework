@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
   groceries.collect do |item, value|
-    puts value
+    value
   end
 
 end
