@@ -9,5 +9,3 @@ def second_challenge
   #code your solution here!
   groceries.values.flatten
 end
-
-puts second_challenge
