@@ -18,6 +18,8 @@ def first_challenge
     if person == "Freddy Mercury"
       data[:favorite_icecream_flavors]
   end
+  
+h.delete_if {|key, value| key >= "b" }   #=> {"a"=>100}
 
   #remember to return your newly altered contacts hash!
   contacts
