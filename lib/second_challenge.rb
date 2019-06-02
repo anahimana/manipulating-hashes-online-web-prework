@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  String(groceries.values)
+  groceries.values
 end
 
 # second_challenge
