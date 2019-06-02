@@ -20,6 +20,7 @@ def first_challenge
         if attribute == :favorite_icecream_flavors
           puts "Hello!"
         end
+      end
     end
   end
 
