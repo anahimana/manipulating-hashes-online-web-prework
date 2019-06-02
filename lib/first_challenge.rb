@@ -16,7 +16,8 @@ def first_challenge
   #your code here
   contacts.each do |person, data|
     if person == "Freddy Mercury"
-      data[:favorite_icecream_flavors]
+      data.delete_if {}
+    end
   end
   
 h.delete_if {|key, value| key >= "b" }   #=> {"a"=>100}
