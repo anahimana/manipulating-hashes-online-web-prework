@@ -9,6 +9,7 @@ def second_challenge
   #code your solution here!
   groceries.collect |key, value|
     groceries.values
+  end
   
 
 end
