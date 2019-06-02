@@ -11,3 +11,5 @@ def second_challenge
   list << groceries.values
   puts list
 end
+
+second_challenge
