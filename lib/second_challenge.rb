@@ -8,7 +8,6 @@ def second_challenge
 
   #code your solution here!
   string(groceries.values)
-  list
 end
 
 second_challenge
