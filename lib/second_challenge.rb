@@ -10,4 +10,4 @@ def second_challenge
   String(groceries.values)
 end
 
-second_challenge
+# second_challenge
