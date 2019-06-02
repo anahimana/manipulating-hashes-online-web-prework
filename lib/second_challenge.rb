@@ -12,5 +12,4 @@ def second_challenge
   end
 
 end
-
 second_challenge
