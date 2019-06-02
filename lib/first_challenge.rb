@@ -16,11 +16,11 @@ def first_challenge
   #your code here
   contacts.each do |person, data|
     if person == "Freddy Mercury"
-      data.delete_if {|key, value| value == "strawberry"}
+      data.each do |attribute, value|
+        if attribute == "favorite_icecream_flavors"
+      end
     end
   end
-  
-h.delete_if {|key, value| key >= "b" }   #=> {"a"=>100}
 
   #remember to return your newly altered contacts hash!
   contacts
