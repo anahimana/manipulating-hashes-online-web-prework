@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  string(groceries.values)
+  Sttring(groceries.values)
 end
 
 second_challenge
