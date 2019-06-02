@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.do
+  groceries.collect do |item, value|
 
 end
 
