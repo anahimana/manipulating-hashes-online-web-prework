@@ -14,5 +14,3 @@ def second_challenge
   end
   puts my_arr
 end
-
-second_challenge
