@@ -7,10 +7,4 @@ def second_challenge
   }
 
   #code your solution here!
-  my_arr = []
-  groceries.each do |key, value|
-    # puts key
-    my_arr Array.new(value)
-  end
-  my_arr
 end
