@@ -18,6 +18,7 @@ def first_challenge
     if person == "Freddy Mercury"
       data.each do |attribute, value|
         if attribute == "favorite_icecream_flavors"
+          emd
       end
     end
   end
