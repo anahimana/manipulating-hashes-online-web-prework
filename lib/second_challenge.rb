@@ -7,7 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.do
+  groceries.do |key, value|
 end
 
 # second_challenge
