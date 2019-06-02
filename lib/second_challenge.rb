@@ -8,6 +8,7 @@ def second_challenge
 
   #code your solution here!
   groceries.do |key, value|
+  end
 end
 
 # second_challenge
